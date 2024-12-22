@@ -1,0 +1,9 @@
+aiohttp
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+nest_asyncio
+python-dotenv
+streamlit
